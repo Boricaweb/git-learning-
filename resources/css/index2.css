@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, p {
+    font-family: Helvetica;
+}
+
+h1 {
+    margin: 70px 10px 70px;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('/resources/picture/pattern.jpeg');
+}
+
+h2 {
+    margin: 20px 10px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    left: 220px;
+}
+
+h3{
+    margin: 20px 10px;
+    font-weight: bold;
+    color: black;
+}
+
+p{
+    margin: 20px 10px;
+    color: black;
+}
+
+bold{
+    font-weight: bold;
+    color: blue;
+}
+
+img{
+    margin: 10px 10px 5px;
+}
+
+.Brushes h2{
+    background-color: mediumspringgreen;
+}
+
+.Frames h2{
+    background-color: lightcoral;
+}
+
+.Paints h2{
+    background-color: skyblue;
+}
+

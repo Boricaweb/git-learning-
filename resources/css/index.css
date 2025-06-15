@@ -1,0 +1,33 @@
+body{
+    font-family: 'Piglet', sans-serif; 
+    background: url("/resources/picture/Ghibli.jpg");     
+    background-size: cover;         
+    background-position: center;            
+    background-repeat: no-repeat;                                                         
+}
+
+h1{
+    font-size: 80px;
+    color:black;
+    text-align: center;
+    border: 5px 5px;
+    margin: 40px;
+}
+
+main{
+    position: relative;
+    left: 200px;
+    color:darkslategrey;
+}
+
+h2{
+    font-size: 20px;
+}
+
+ul li{
+    font-size: 15px;
+}
+
+img{
+    display:inline;
+}
